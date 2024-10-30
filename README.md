@@ -1,4 +1,5 @@
-# EEG-Electroencephalogram
+# EEG
+# Electroencephalogram
 
 This repository is dedicated to the exploration and analysis of electroencephalography (EEG), a non-invasive method used to measure brain electrical activity. It includes historical data, modern applications, and detailed methodologies for EEG data preprocessing and analysis.
 
